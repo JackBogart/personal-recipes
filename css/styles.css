@@ -13,3 +13,13 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: hsl(184, 100%, 85%);
 }
+
+.recipe-links li {
+  background-color: hsl(272, 100%, 81%);
+  color: hsla(184, 100%, 85%, 0);
+  margin-left: -40px;
+  padding: 10px;
+  margin-bottom: 2px;
+  width: 250px;
+  border: 2px black solid;
+}
